@@ -1,0 +1,24 @@
+LISTADO DE SONIDOS - sbb-carsounds
+(codigo interno - auto real de donde viene el sonido - coche del servidor donde esta instalado)
+
+lamveneng       - Lamborghini Veneno              - (sin asignar todavia)
+npolchar        - Dodge Charger (policia/muscle)  - edw-buffalogtx (Buffalo GTX)
+str12392m       - Mopar 392 Hemi (muscle)         - edw-gauntletgt (Gauntlet GT)
+gom12usav8a     - V8 americano generico           - gstdomgts1 (Dominator GTS 2011) + gstbulgts1 (Bullet GTS OLD)
+gom10euri6b     - BMW M3 E46 (I6 europeo)         - gstsentgt1 (Sentinel XS4 M3E46)
+lfasound        - Lexus LFA                        - gstlfc1 (Emperor LFC)
+ml720v8eng      - V8 generico (ML720)              - gst920s1 (Progen 920S)
+gom07sportjpi6  - Toyota Supra MK4 2JZ (I6 japones)- gstsunrisers1 (Maibatsu Sunrise RS) + gstjrz1 (SupraMK4)
+elegyx          - Nissan GT-R R35 Nismo            - elegyrh35 (Elegy RH35)
+
+-- nuevos (agregados desde Sonidos-511290cb.zip) --
+str10b302       - Ford Mustang Boss 302 V12 swap   - (sin asignar todavia)
+lg58mwm3gtrdemo - BMW M3 GTR (motor P60B40)        - (sin asignar todavia; este era el hash que usaba enviz antes de que lo cambiaramos a "cypher")
+lg101timcamz28  - Chevrolet Camaro Z28 LS7          - (sin asignar todavia)
+ta488f154       - Ferrari 488 / F8 / SF90 (F154)    - (sin asignar todavia)
+lg123murcisp    - Lamborghini Murcielago V12 (escape recto) - (sin asignar todavia)
+f136            - Ferrari 458 (motor F136)          - (sin asignar todavia)
+
+Nota: los codigos son el nombre interno que usa el pack de audio (audioconfig/*), no
+el modelName del coche. Un mismo sonido se puede reutilizar en mas de un coche sin
+problema (asi ya esta hecho con gom12usav8a y gom07sportjpi6).
