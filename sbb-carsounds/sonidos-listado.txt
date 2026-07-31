@@ -24,6 +24,9 @@ lgcy01chargerv8 - Dodge Charger V8                    - gstbufac1 (Buffalo A/C C
 ferrarif140fe   - Ferrari F140FE                       - gstlagrotti1 (Grotti LaGrotti)
 ta032s63b44     - motor S63B44                          - gstvorgts1 (Ubermacht Vorstand GTS)
 
+-- nuevos (agregados desde Pack coches 2.zip, venian ya empaquetados con su coche) --
+remustwo        - Annis Remus II                        - remustwo (Remus II)
+
 Nota: los codigos son el nombre interno que usa el pack de audio (audioconfig/*), no
 el modelName del coche. Un mismo sonido se puede reutilizar en mas de un coche sin
 problema (asi ya esta hecho con gom12usav8a y gom07sportjpi6).

@@ -2,7 +2,7 @@ fx_version 'adamant'
 game 'gta5'
 
 author 'sbb'
-description 'sbb-carsounds - Sonidos de coches personalizados (18 sonidos)'
+description 'sbb-carsounds - Sonidos de coches personalizados (19 sonidos)'
 version '1.0.0'
 
 files {
@@ -112,3 +112,8 @@ data_file 'AUDIO_WAVEPACK' 'sfx/dlc_ferrarif140fe'
 data_file 'AUDIO_GAMEDATA' 'audioconfig/ta032s63b44_game.dat'
 data_file 'AUDIO_SOUNDDATA' 'audioconfig/ta032s63b44_sounds.dat'
 data_file 'AUDIO_WAVEPACK' 'sfx/dlc_ta032s63b44'
+
+-- Sonido 19: remustwo (viene con Annis Remus II / remustwo)
+data_file 'AUDIO_GAMEDATA' 'audioconfig/remustwo_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audioconfig/remustwo_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'sfx/dlc_remustwo'
