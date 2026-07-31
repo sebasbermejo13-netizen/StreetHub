@@ -2,7 +2,7 @@ fx_version 'adamant'
 game 'gta5'
 
 author 'sbb'
-description 'sbb-carsounds - Sonidos de coches personalizados (19 sonidos)'
+description 'sbb-carsounds - Sonidos de coches personalizados (24 sonidos)'
 version '1.0.0'
 
 files {
@@ -117,3 +117,30 @@ data_file 'AUDIO_WAVEPACK' 'sfx/dlc_ta032s63b44'
 data_file 'AUDIO_GAMEDATA' 'audioconfig/remustwo_game.dat'
 data_file 'AUDIO_SOUNDDATA' 'audioconfig/remustwo_sounds.dat'
 data_file 'AUDIO_WAVEPACK' 'sfx/dlc_remustwo'
+
+-- Sonido 20: evorllyeng (Mitsubishi Lancer Evo 4G63T Rally)
+data_file 'AUDIO_SYNTHDATA' 'audioconfig/evorllyeng_amp.dat'
+data_file 'AUDIO_GAMEDATA' 'audioconfig/evorllyeng_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audioconfig/evorllyeng_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'sfx/dlc_evorllyeng'
+
+-- Sonido 21: bnr34ffeng (Nissan Skyline GT-R BNR34 -- escape free flow)
+data_file 'AUDIO_SYNTHDATA' 'audioconfig/bnr34ffeng_amp.dat'
+data_file 'AUDIO_GAMEDATA' 'audioconfig/bnr34ffeng_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audioconfig/bnr34ffeng_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'sfx/dlc_bnr34ffeng'
+
+-- Sonido 22: lg114oldgalv10 (Lamborghini Gallardo 5.0L V10)
+data_file 'AUDIO_GAMEDATA' 'audioconfig/lg114oldgalv10_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audioconfig/lg114oldgalv10_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'sfx/dlc_lg114oldgalv10'
+
+-- Sonido 23: lg157por911 (Porsche 911 GT3 RS)
+data_file 'AUDIO_GAMEDATA' 'audioconfig/lg157por911_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audioconfig/lg157por911_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'sfx/dlc_lg157por911'
+
+-- Sonido 24: rb26dett (Nissan RB26DETT I6)
+data_file 'AUDIO_GAMEDATA' 'audioconfig/rb26dett_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audioconfig/rb26dett_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'sfx/dlc_rb26dett'

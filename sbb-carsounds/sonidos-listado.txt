@@ -27,6 +27,26 @@ ta032s63b44     - motor S63B44                          - gstvorgts1 (Ubermacht 
 -- nuevos (agregados desde Pack coches 2.zip, venian ya empaquetados con su coche) --
 remustwo        - Annis Remus II                        - remustwo (Remus II)
 
+-- nuevos (agregados desde SoundsCarsNew.zip) --
+evorllyeng      - Mitsubishi Lancer Evo 4G63T (rally)   - sultanrsv8 (Sultan RS V8) + sunrise1 (Sunrise) + kurumar (Kuruma R)
+bnr34ffeng      - Nissan Skyline GT-R BNR34 (free flow) - elegyrh7 (Elegy RH7, elegyrh72)
+lg114oldgalv10  - Lamborghini Gallardo 5.0L V10          - shalvacca (Shal Vacca)
+lg157por911     - Porsche 911 GT3 RS                     - (sin asignar todavia)
+rb26dett        - Nissan RB26DETT I6                     - elegyrh6 (Elegy RH6) + elegyheritage (Elegy Heritage)
+
+-- reasignados el 31/07 (coches pedidos por el usuario) --
+lamveneng       - Lamborghini Veneno              - tempestaes (Tempesta ES)
+ta488f154       - Ferrari 488 / F8 / SF90 (F154)   - shalturismo (Shal Turismo) + turismos (Turismo S) + italigtr (Itali GTR)
+lg123murcisp    - Lamborghini Murcielago V12 (escape recto) - gstinfrxs1 (Infernus XS)
+gom12usav8a     - V8 americano generico            - gstdomgts1 + gstbulgts1 + jdom9 (Dominator GTR SR)
+
+-- otros arreglos de sonido roto encontrados en la revision del 31/07 --
+gom10euri6b     - BMW M3 E46 (I6 europeo)          - gstsentgt1 + schlagenstr (Schlagen STR; tenia "ta178amgb", un banco que no esta instalado)
+gom07sportjpi6  - Toyota Supra MK4 2JZ (I6 japones)- gstsunrisers1 + gstjrz1 + variantes w/rhdw de gstsunrisers1 (tenian "gom04lane", banco no instalado)
+
+Nota: lg123murcisp tambien venia en este zip pero ya estaba instalado
+(identico byte a byte al que ya tenemos), asi que no se duplico.
+
 Nota: los codigos son el nombre interno que usa el pack de audio (audioconfig/*), no
 el modelName del coche. Un mismo sonido se puede reutilizar en mas de un coche sin
 problema (asi ya esta hecho con gom12usav8a y gom07sportjpi6).
