@@ -2,7 +2,7 @@ fx_version 'adamant'
 game 'gta5'
 
 author 'sbb'
-description 'sbb-carsounds - Sonidos de coches personalizados (15 sonidos)'
+description 'sbb-carsounds - Sonidos de coches personalizados (18 sonidos)'
 version '1.0.0'
 
 files {
@@ -96,3 +96,19 @@ data_file 'AUDIO_SYNTHDATA' 'audioconfig/f136_amp.dat'
 data_file 'AUDIO_GAMEDATA' 'audioconfig/f136_game.dat'
 data_file 'AUDIO_SOUNDDATA' 'audioconfig/f136_sounds.dat'
 data_file 'AUDIO_WAVEPACK' 'sfx/dlc_f136'
+
+-- Sonido 16: lgcy01chargerv8 (Dodge Charger V8 -- viene con Buffalo A/C Classic / gstbufac1)
+data_file 'AUDIO_SYNTHDATA' 'audioconfig/lgcy01chargerv8_amp.dat'
+data_file 'AUDIO_GAMEDATA' 'audioconfig/lgcy01chargerv8_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audioconfig/lgcy01chargerv8_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'sfx/dlc_lgcy01chargerv8'
+
+-- Sonido 17: ferrarif140fe (Ferrari F140FE -- viene con Grotti LaGrotti / gstlagrotti1)
+data_file 'AUDIO_GAMEDATA' 'audioconfig/ferrarif140fe_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audioconfig/ferrarif140fe_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'sfx/dlc_ferrarif140fe'
+
+-- Sonido 18: ta032s63b44 (motor S63B44 -- viene con Ubermacht Vorstand GTS / gstvorgts1)
+data_file 'AUDIO_GAMEDATA' 'audioconfig/ta032s63b44_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audioconfig/ta032s63b44_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'sfx/dlc_ta032s63b44'

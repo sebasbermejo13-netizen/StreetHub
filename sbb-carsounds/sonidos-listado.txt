@@ -19,6 +19,11 @@ ta488f154       - Ferrari 488 / F8 / SF90 (F154)    - (sin asignar todavia)
 lg123murcisp    - Lamborghini Murcielago V12 (escape recto) - (sin asignar todavia)
 f136            - Ferrari 458 (motor F136)          - (sin asignar todavia)
 
+-- nuevos (agregados desde Coches nuevos v1.zip, venian ya empaquetados con su coche) --
+lgcy01chargerv8 - Dodge Charger V8                    - gstbufac1 (Buffalo A/C Classic)
+ferrarif140fe   - Ferrari F140FE                       - gstlagrotti1 (Grotti LaGrotti)
+ta032s63b44     - motor S63B44                          - gstvorgts1 (Ubermacht Vorstand GTS)
+
 Nota: los codigos son el nombre interno que usa el pack de audio (audioconfig/*), no
 el modelName del coche. Un mismo sonido se puede reutilizar en mas de un coche sin
 problema (asi ya esta hecho con gom12usav8a y gom07sportjpi6).
